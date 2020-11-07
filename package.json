@@ -1,0 +1,17 @@
+{
+  "name": "v2shrug-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luclu7/v2shrug-bot",
+  "author": "luclu7",
+  "license": "MIT",
+  "scripts": {
+    "bot": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
+}
